@@ -4,7 +4,7 @@
 - 🚀 Problem-solver turned coder  
 - 💻 Currently learning **Python**, **Docker** and **MongoDB** .  
 - 🛠️ Skilled in JavaScript and building projects like:
-  - **[Command Line Interface Tool](https://github.com/AugieAud/cli-tool-mongodb.git))**: A comman-line interface tool to seed data into a local MongoDB database or delete data from it.
+  - **[Command Line Interface Tool](https://github.com/AugieAud/cli-tool-mongodb.git))**: A CLI tool to seed data into a local MongoDB database or delete data from it.
   - **[Insurance Recommendation App](https://github.com/AugieAud/car-insurance-chatbot.git)**: Generative AI-powered application for personalized insurance suggestions.
 
 🌱 **What I'm Working On**  
