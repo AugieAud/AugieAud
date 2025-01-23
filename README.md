@@ -4,8 +4,8 @@
 - 🚀 Problem-solver turned coder  
 - 💻 Currently learning **Python**, **Docker** and **MongoDB** .  
 - 🛠️ Skilled in JavaScript and building projects like:
-  - **[Mock Job Interview App](https://github.com/AugieAud/Mission3.git)**: A React-based app using generative AI.
-  - **[Insurance Recommendation App](https://github.com/YourRepo](https://github.com/AugieAud/Mission-4.git)**: Generative AI-powered application for personalized insurance suggestions.
+  - **[Command Line Interface Tool](https://github.com/AugieAud/cli-tool-mongodb.git))**: A comman-line interface tool to seed data into a local MongoDB database or delete data from it.
+  - **[Insurance Recommendation App](https://github.com/AugieAud/car-insurance-chatbot.git)**: Generative AI-powered application for personalized insurance suggestions.
 
 🌱 **What I'm Working On**  
 - 🔧 Improving my backend development skills with **Express** and **MongoDB**.  
