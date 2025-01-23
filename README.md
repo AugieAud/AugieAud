@@ -4,7 +4,7 @@
 - 🚀 Aspiring software developer transitioning from [chefing/gardening/construction] to tech.  
 - 💻 Currently learning **Python**, **Docker** and **MongoDB** .  
 - 🛠️ Building projects like:
-  - **[Mock Job Interview App](https://github.com/AugieAud/Mission3.git)**: A React-based app using generatuv AI.
+  - **[Mock Job Interview App](https://github.com/AugieAud/Mission3.git)**: A React-based app using generative AI.
   - **[Insurance Recommendation App](https://github.com/YourRepo](https://github.com/AugieAud/Mission-4.git)**: Generative AI-powered application for personalized insurance suggestions.
 
 🌱 **What I'm Working On**  
