@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Augie Schnell!
 
 🌟 **About Me**  
-- 🚀 Aspiring software developer transitioning from [chefing/gardening/construction] to tech.  
+- 🚀 Aspiring software developer transitioning from chefing/gardening/construction] to tech.  
 - 💻 Currently learning **Python**, **Docker** and **MongoDB** .  
 - 🛠️ Building projects like:
   - **[Mock Job Interview App](https://github.com/AugieAud/Mission3.git)**: A React-based app using generative AI.
