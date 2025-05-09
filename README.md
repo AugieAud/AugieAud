@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Augie Schnell!
+# 👋 Kia Ora, I'm Augie Schnell!
 
 🌟 **About Me**  
 - 🚀 Problem-solver turned coder  
