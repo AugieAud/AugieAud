@@ -6,7 +6,7 @@ I’ve built projects like a CLI tool for MongoDB, an AI powered insurance app, 
 
 Outside of coding I bake sourdough and run as much as I can.
 
-LinkedIn
-linkedin.com/in/augie-schnell-067980342/
+[
+linkedin.com/in/augie-schnell-067980342/](https://www.linkedin.com/in/augie-schnell-067980342/)
 
 📧 ajschnello@gmail.com
